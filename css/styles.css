@@ -1,0 +1,18 @@
+
+/* Nav styles */
+.nav-title {
+    margin: 0;
+    padding: .67em;
+}
+.container {
+    width: 100%;
+    background: rgb(242, 242, 241);
+    text-align: center;
+}
+.nav-items {
+    width: 80%;
+    margin: .37rem auto;
+    padding: .5rem;
+    background-color: white;
+    text-transform: uppercase;
+}
